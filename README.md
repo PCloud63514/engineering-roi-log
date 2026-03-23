@@ -39,6 +39,16 @@ engineering-roi-log/
 ├── 03_캐시도입/
 │   └── README.md
 ```
+**확장:**
+```
+[주제 디렉토리]/
+├── README.md              # 핵심 기록 (문제~ROI)
+├── team-feedback.md       # 팀 반응
+├── WBS.md                 # 실행 계획 (엑셀 링크)
+├── metrics.md             # (선택) 측정 지표 상세
+├── decision-log.md        # (선택) 의사결정 타임라인
+└── artifacts/             # (선택) 스크린샷, 다이어그램
+```
 ---
 
 ## 📝 템플릿 위치
